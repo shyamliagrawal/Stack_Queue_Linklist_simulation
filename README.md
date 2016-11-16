@@ -14,7 +14,6 @@ The can choose any choice from menu and its submenu and see what is happening to
 This directory is structured as follows:
 
 Data Structure Simulation
-   |
    |----> header.h         -- containing all headers 
    |----> main.c           -- main code n logic
    |----> menu.c           -- menu functions
