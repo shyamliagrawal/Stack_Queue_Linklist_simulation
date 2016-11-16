@@ -24,3 +24,8 @@ Data Structure Simulation
    |----> queue.c          -- handle queue case
    |----> linklist.c       -- handle linklist case
    |----> compile.txt      -- command to compile
+
+
+Inside this directory
+Compile : cc *.c -lncurses -o exec
+Run     : ./exec
